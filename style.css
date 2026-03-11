@@ -667,8 +667,9 @@ body { background:#0d1117; color:#c9d1d9; }
   0% { transform: translateY(0px); }
   50% { transform: translateY(-5px); }
   100% { transform: translateY(0px); }
+}
 
-  /* ================= RESPONSIVE DESIGN ================= */
+/* ================= RESPONSIVE DESIGN ================= */
 
 /* Tablets */
 @media (max-width: 1024px) {
@@ -778,7 +779,5 @@ body { background:#0d1117; color:#c9d1d9; }
     font-size: 0.9rem;
     padding: 0.7rem 1rem;
   }
-
-}
 
 }
