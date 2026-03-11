@@ -781,3 +781,27 @@ body { background:#0d1117; color:#c9d1d9; }
   }
 
 }
+
+/* ===== FIX CUTTING WITHOUT CHANGING DESIGN ===== */
+
+/* Prevent horizontal cutting */
+html, body {
+  overflow-x: hidden;
+}
+
+/* Allow navbar to wrap instead of cutting */
+.navbar {
+  flex-wrap: wrap;
+}
+
+/* Prevent hero items from overflowing */
+.hero {
+  flex-wrap: wrap;
+}
+
+/* Make image scale but keep same design */
+.hero-image img {
+  max-width: 100%;
+  height: auto;
+}
+
