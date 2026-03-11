@@ -1,0 +1,64 @@
+{
+  "name": "Mohammed Ahsan Meah",
+  "contact": ["01625-935620", "01815184979"],
+  "email": "hasanrahat980@gmail.com",
+  "address": "Jumirah Ar Levena Square Building, Katalgonj Road No. 2, Chawkbazar, Chittagong 4203, Bangladesh",
+  "careerObjective": "To seek a challenging position in a reputed organization where I can continuously learn new skills, expand my professional knowledge, and effectively apply my learnings to contribute to organizational growth and success.",
+  "education": [
+    {
+      "degree": "BACHELOR OF COMPUTER SCIENCE AND ENGINEERING",
+      "institute": "CANADIAN UNIVERSITY OF BANGLADESH",
+      "major": "Computer Science and Engineering (C.S.E)",
+      "passingYear": "October 2025",
+      "result": "GPA 3.66 out of 4.00"
+    },
+    {
+      "degree": "GED (GENERAL EDUCATION DIPLOMA)",
+      "institute": "MENTORS CTG (CHATTOGRAM BRANCH)",
+      "subjects": ["Science", "Math", "Social Studies", "English language"],
+      "passingYear": "March 2021",
+      "result": "619 out of 800"
+    },
+    {
+      "degree": "O-LEVEL EDEXCEL",
+      "institute": "BRITISH COUNCIL (CHATTOGRAM BRANCH)",
+      "subjects": ["Math B", "Physics", "Chemistry", "Pure Math", "Bangla", "English Language"],
+      "passingYear": "May 2018",
+      "result": "GPA 2.88 out of 4.00"
+    }
+  ],
+  "experience": [
+    {
+      "position": "Marketing and Customer Service",
+      "company": "AHZ ASSOCIATES BANGLADESH (VOLUNTEERING)",
+      "duration": "1 Month (December 2019)",
+      "location": "G.E.C MOR CHATTOGRAM",
+      "achievement": ["Dealing with customers", "Marketing"]
+    },
+    {
+      "position": "Social Media Executive and Manager",
+      "company": "LAVENDER WARE (FACEBOOK ONLINE SHOPPING PAGE)",
+      "duration": "2 Years (January 2021 - 2022)",
+      "location": "CHATTOGRAM",
+      "achievement": ["Developed social media skills", "Social media marketing"]
+    },
+    {
+      "position": "Customer Call Service",
+      "company": "Dreamport (Training session)",
+      "duration": "1 month (2025)",
+      "location": "Remote (online)",
+      "achievement": ["Developed customer dealing service", "Communication skills"]
+    }
+  ],
+  "skills": ["C Programming (Basic)", "MySQL (Basic)", "CapCut PC (Video Editing)", "Audacity (Basic)", "HTML", "Python", "Microsoft Office", "Canva (Basic)"],
+  "personalInfo": {
+    "Father": "ISKANDAR",
+    "Mother": "NAZMUN NAHAR RUNA",
+    "Brother": "MOHAMMED AKRAM MEAH",
+    "Sister": "ROMANA AFROZA",
+    "DOB": "05/10/1999",
+    "Marital Status": "Single",
+    "Religion": "Islam",
+    "Permanent Address": "Katalgonj, Chawk Bazar NO#16 WARD, CHATTOGRAM"
+  }
+}
